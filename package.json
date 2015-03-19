@@ -1,7 +1,7 @@
 {
   "name": "c9.ide.smvide",
   "description": "Smv IDE plugins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "ninjapapa",
   "contributors": [
     {
@@ -17,6 +17,8 @@
     "smvcommand": {},
     "smvgraphview": {}
   },
-  "categories": ["miscellaneous"],
+  "categories": [
+    "miscellaneous"
+  ],
   "licenses": []
 }
