@@ -17,6 +17,9 @@
     "smvcommand": {},
     "smvgraphview": {}
   },
+  "engines": {
+    "c9": ">=3.0.0"
+  },
   "categories": [
     "miscellaneous"
   ],
