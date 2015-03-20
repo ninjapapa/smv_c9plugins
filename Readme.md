@@ -1,4 +1,4 @@
-# Smv Cloud9 Plugins
+# Smv Cloud9 Plugins - smvcommand
 
 Spark Modeling Variables is a Spark Library enables users to quickly build model variables for both ad hoc analysis and production ready App.
 
