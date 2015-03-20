@@ -1,7 +1,7 @@
 {
-  "name": "smvide",
-  "description": "Smv IDE plugins",
-  "version": "0.0.7",
+  "name": "tresamigos.smvc9ide.smvgraphview",
+  "description": "Smv IDE plugins - graph viewer",
+  "version": "0.0.0",
   "author": "ninjapapa",
   "contributors": [
     {
@@ -14,8 +14,7 @@
     "url": "https://github.com/ninjapapa/smv_c9plugins"
   },
   "plugins": {
-    "smvcommand": {},
-    "smvgraphview": {}
+    "smvcommand": {}
   },
   "engines": {
     "c9": ">=3.0.0"

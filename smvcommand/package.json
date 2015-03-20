@@ -1,0 +1,26 @@
+{
+  "name": "tresamigos.smvc9ide.smvcommand",
+  "description": "Smv IDE plugins - command entry",
+  "version": "0.0.0",
+  "author": "ninjapapa",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjapapa/smv_c9plugins"
+  },
+  "plugins": {
+    "smvcommand": {}
+  },
+  "engines": {
+    "c9": ">=3.0.0"
+  },
+  "categories": [
+    "miscellaneous"
+  ],
+  "licenses": []
+}
