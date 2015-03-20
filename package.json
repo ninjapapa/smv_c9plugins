@@ -14,7 +14,8 @@
     "url": "https://github.com/ninjapapa/smv_c9plugins"
   },
   "plugins": {
-    "smvcommand": {}
+    "smvcommand": {},
+    "smvgraphview": {}
   },
   "engines": {
     "c9": ">=3.0.0"
